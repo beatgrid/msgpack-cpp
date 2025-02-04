@@ -9,6 +9,7 @@
 #include <type_traits>
 #include <vector>
 #include "platform.h"
+#include <locale>
 #include <codecvt>
 
 namespace msgpack {
